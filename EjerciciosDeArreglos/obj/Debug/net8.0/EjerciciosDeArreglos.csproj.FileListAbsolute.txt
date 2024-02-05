@@ -1,0 +1,14 @@
+C:\Users\aleja\source\repos\EjerciciosDeArreglos\EjerciciosDeArreglos\bin\Debug\net8.0\EjerciciosDeArreglos.exe
+C:\Users\aleja\source\repos\EjerciciosDeArreglos\EjerciciosDeArreglos\bin\Debug\net8.0\EjerciciosDeArreglos.deps.json
+C:\Users\aleja\source\repos\EjerciciosDeArreglos\EjerciciosDeArreglos\bin\Debug\net8.0\EjerciciosDeArreglos.runtimeconfig.json
+C:\Users\aleja\source\repos\EjerciciosDeArreglos\EjerciciosDeArreglos\bin\Debug\net8.0\EjerciciosDeArreglos.dll
+C:\Users\aleja\source\repos\EjerciciosDeArreglos\EjerciciosDeArreglos\bin\Debug\net8.0\EjerciciosDeArreglos.pdb
+C:\Users\aleja\source\repos\EjerciciosDeArreglos\EjerciciosDeArreglos\obj\Debug\net8.0\EjerciciosDeArreglos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aleja\source\repos\EjerciciosDeArreglos\EjerciciosDeArreglos\obj\Debug\net8.0\EjerciciosDeArreglos.AssemblyInfoInputs.cache
+C:\Users\aleja\source\repos\EjerciciosDeArreglos\EjerciciosDeArreglos\obj\Debug\net8.0\EjerciciosDeArreglos.AssemblyInfo.cs
+C:\Users\aleja\source\repos\EjerciciosDeArreglos\EjerciciosDeArreglos\obj\Debug\net8.0\EjerciciosDeArreglos.csproj.CoreCompileInputs.cache
+C:\Users\aleja\source\repos\EjerciciosDeArreglos\EjerciciosDeArreglos\obj\Debug\net8.0\EjerciciosDeArreglos.dll
+C:\Users\aleja\source\repos\EjerciciosDeArreglos\EjerciciosDeArreglos\obj\Debug\net8.0\refint\EjerciciosDeArreglos.dll
+C:\Users\aleja\source\repos\EjerciciosDeArreglos\EjerciciosDeArreglos\obj\Debug\net8.0\EjerciciosDeArreglos.pdb
+C:\Users\aleja\source\repos\EjerciciosDeArreglos\EjerciciosDeArreglos\obj\Debug\net8.0\EjerciciosDeArreglos.genruntimeconfig.cache
+C:\Users\aleja\source\repos\EjerciciosDeArreglos\EjerciciosDeArreglos\obj\Debug\net8.0\ref\EjerciciosDeArreglos.dll
